@@ -8,7 +8,17 @@ onMounted(() => {
 </script>
 
 <template>
+  <header>
+    
+  </header>
+
+  <main>
+    <RouterView />
+  </main>
   
-  <RouterView />
+
+  <footer>
+
+  </footer>
 </template>
 

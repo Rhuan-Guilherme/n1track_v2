@@ -4,7 +4,7 @@
 </script>
 
 <template>
-    <div class="w-full h-full bg-black">
+    <div class="w-full h-full">
         <Lateral />
         <Login />
     </div>
